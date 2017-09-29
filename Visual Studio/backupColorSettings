@@ -1,0 +1,54 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.revealIfOpen": true,
+    "javascript.validate.enable": false,
+    "standard.autoFixOnSave": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2d2d2d",
+        "activityBar.foreground": "#cccccc",
+        "activityBar.dropBackground": "#6699cc",
+        "statusBar.background": "#515151",
+        "activityBarBadge.background": "#5C6BC0",
+        "activityBarBadge.foreground": "#eeeeee",
+        "widget.shadow": "#2d2d2d",
+        "list.activeSelectionForeground": "#5C6BC0",
+        "list.inactiveSelectionForeground": "#5C6BC0",
+        "list.highlightForeground": "#5C6BC0",
+        "scrollbarSlider.activeBackground": "#5C6BC050",
+        "editorSuggestWidget.highlightForeground": "#5C6BC0",
+        "textLink.foreground": "#5C6BC0",
+        "progressBar.background": "#5C6BC0",
+        "pickerGroup.foreground": "#5C6BC0"
+    },
+    "files.trimTrailingWhitespace": true,
+    "bookmarks.navigateThroughAllFiles": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true,
+    "workbench.colorTheme": "Tomorrow Night Eighties",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 12,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "macros": {
+        "hideBoth": [
+            "workbench.action.toggleActivityBarVisibility",
+            "workbench.action.toggleSidebarVisibility"
+        ]
+    },
+    "beautify.options": {
+        "indent_size": 2,
+        "indent_char": " ",
+        "preserve_newlines": true,
+        "max_preserve_newlines": 1
+    },
+    "extensions.ignoreRecommendations": true,
+    "editor.tabSize": 2,
+    "beautify.tabSize": 2,
+    "materialTheme.cache.workbench.settings": {
+        "themeColours": "Default",
+        "accent": "Indigo",
+        "accentPrevious": "Breaking Bad"
+    }
+}
